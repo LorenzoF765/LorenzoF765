@@ -9,7 +9,7 @@ Python, Java, Javascript, HTML, CSS, C++, C, C#, and Ruby
 React, Django, SQL Server Admin, SQLite, Playwright, Node, Vue
 
 ## Employment Status: 
-### Freestyle Web Development, taking requests. 
+### Freelance Web Developer, taking requests. 
 Otherwise, currently looking for work!
 
 ### Fun Facts about me: 
